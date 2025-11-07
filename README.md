@@ -18,7 +18,7 @@ sudo chmod -R 755 /file path
    vi /etc/samba/smb.conf
 {
 [File Name]
-   path = file path
+   path = folder path
    guest ok = yes
    writable = yes
    browsable = yes
